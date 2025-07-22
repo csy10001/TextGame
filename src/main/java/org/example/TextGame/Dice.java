@@ -1,4 +1,4 @@
 package org.example.TextGame;
 
-public class Choose {
+public class Dice {
 }

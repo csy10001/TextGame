@@ -1,4 +1,5 @@
 package org.example.TextGame;
 
-public class EndingScene {
+public class EndingScene extends Scene{
+
 }
